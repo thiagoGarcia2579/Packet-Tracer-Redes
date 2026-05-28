@@ -50,6 +50,14 @@ El trunking permite:
 
 ---
 
+## Informe
+
+El informe completo del trabajo práctico se encuentra en el archivo adjunto:
+
+**[Informe_TP12.pdf](./Informe_TP12.pdf)**
+
+---
+
 ## Herramientas utilizadas
 
 - Cisco Packet Tracer
