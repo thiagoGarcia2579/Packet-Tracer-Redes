@@ -88,7 +88,7 @@ Repositorio con trabajos prácticos y laboratorios de redes realizados en Cisco 
 * Verificación de conectividad
 * Administración de tráfico entre hosts
 
-### - [TP12 - Truking](./TP12%20-%20STP)
+### - [TP12 - Trunking](./TP12%20-%20STP)
 
 ### - [TP13 - Spanning Tree Protocol (STP)](./TP13%20-%20STP)
 ## Tecnologías trabajadas
