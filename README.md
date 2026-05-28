@@ -7,7 +7,7 @@ Repositorio con laboratorios de redes realizados en Cisco Packet Tracer.
 
 - [TP1 - DNS y Resolución de Nombres](./TP1%20-%20DNS)
 - [TP2 - DHCP](./TP2%20-%20DHCP)
-- [TP3 - HTTP y DNS](./TP3%20-%20HTTP%20DNS)
+- [TP3 - HTTP y DNS](./TP3%20-%20HTTP%20y%20DNS)
 - [TP4 - FTP](./TP4%20-%20FTP)
 - [TP5 - Mail Server](./TP5%20-%20Mail%20Server)
 - [TP6 - Wireshark y Análisis de Tráfico](./TP6%20-%20Wireshark)
