@@ -47,7 +47,7 @@ El protocolo STP evita bucles en la red mediante:
 
 El informe completo del trabajo práctico se encuentra en el archivo adjunto:
 
- **TP13 - STP.pdf**
+ **Informe_TP13.pdf**
 
 ---
 
