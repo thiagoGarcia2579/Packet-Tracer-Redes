@@ -96,14 +96,7 @@ Repositorio con trabajos prácticos y laboratorios de redes realizados en Cisco 
 * Verificación de conectividad entre hosts
 * Administración de tráfico VLAN
 
-### TP13 - Spanning Tree Protocol (STP)
-
-* Configuración y verificación de STP
-* Identificación de Switch Root
-* Detección de puertos bloqueados
-* Redundancia y tolerancia a fallos
-* Recuperación automática de enlaces
-
+### - [TP13 - Spanning Tree Protocol (STP)](./TP13%20-%20STP)
 ## Tecnologías trabajadas
 
 * DNS
