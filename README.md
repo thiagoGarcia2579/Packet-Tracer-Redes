@@ -9,7 +9,7 @@ Repositorio con laboratorios de redes realizados en Cisco Packet Tracer.
 - [TP2 - DHCP](./TP2%20-%20DHCP)
 - [TP3 - HTTP y DNS](./TP3%20-%20HTTP%20DNS)
 - [TP4 - FTP](./TP4%20-%20FTP)
-- [TP5 - Mail Server](./TP5%20-%20Mail)
+- [TP5 - Mail Server](./TP5%20-%20Mail%20Server)
 - [TP6 - Wireshark y Análisis de Tráfico](./TP6%20-%20Wireshark)
 - [TP7 - Sockets en Python](./TP7%20-%20Sockets%20en%20Python)
 - [TP8 - Subnetting](./TP8%20-%20Subnetting)
